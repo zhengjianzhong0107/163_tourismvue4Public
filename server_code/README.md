@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1G3W3eBEVJ/](https://www.bilibili.com/video/BV1G3W3eBEVJ/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+vue3的景区旅游门票管理系统(源代码+数据库)163
 
